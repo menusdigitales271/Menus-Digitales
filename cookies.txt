@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.printingxpressdigital.com	TRUE	/	FALSE	1999999999	__cfduid	d0dd1d45b9efe60eb97420ebe6f6841161591380821
+printingxpressdigital.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
